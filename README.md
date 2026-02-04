@@ -19,8 +19,5 @@ Bu proje, özellikle **büyük veri setlerinin (Big Data) frontend tarafında na
 * **Veri Yönetimi:** Harici `.js` dosyasından çekilen optimize edilmiş veri yapısı.
 * **Tasarım:** CSS Grid ve Flexbox mimarisi.
 
-## 📸 Ekran Görüntüleri
-*(Buraya projenin ekran görüntülerini ekleyebilirsiniz)*
-
 ---
 *Geliştirme süreci devam etmektedir. Yeni özellikler eklenecektir.*
